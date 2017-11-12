@@ -19,7 +19,7 @@ public class TestaVeiculo {
                 "Volante: "+b.volanet);
         b.ligar();
 
-        System.out.println("-----------------------------");
+        System.out.println("------------------------------");
 
         Carro c = new Carro();
         c.setCombustivel("flex");
